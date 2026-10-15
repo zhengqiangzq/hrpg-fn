@@ -1,0 +1,1 @@
+import{_ as t}from"./index-T4Fyc8X_.js";import{i as o,q as e,l as r}from"./vue-core-DzaCYk1e.js";import"./common-utils-CJRNgefJ.js";import"./special-libs-eUSlpZnf.js";import"./vue-extras-D2s2ZzU4.js";const s={class:"wscn-http404-container"},a={__name:"404",setup(c){return o(()=>"找不到网页！"),(_,p)=>(e(),r("div",s))}},l=t(a,[["__scopeId","data-v-a465fa1d"]]);export{l as default};
